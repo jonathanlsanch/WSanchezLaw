@@ -9,7 +9,6 @@ import { AppRoutingModule  } from './app-routing.module';
 import { FirmOverviewComponent } from './firm-overview/firm-overview.component';
 
 
-
 @NgModule({
   declarations: [
     AppComponent,
